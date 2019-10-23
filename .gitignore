@@ -1,0 +1,7 @@
+/node_modules
+/.tscache
+/.vscode
+/dist
+package-lock.json
+/log/app.log
+/undefined
